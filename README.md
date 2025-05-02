@@ -1,14 +1,14 @@
-🧠 IBM HR Analytics: Employee Attrition & Performance
+##🧠 IBM HR Analytics: Employee Attrition & Performance
 This project explores factors contributing to employee attrition using the IBM HR Analytics dataset. Through data cleaning, exploratory analysis, feature engineering, and machine learning, I aim to build predictive models and provide actionable HR insights.
 
-📊 Objectives
+##📊 Objectives
 Identify key drivers of employee attrition.
 
 Explore the relationship between job roles, satisfaction levels, compensation, and turnover.
 
 Build machine learning models to predict which employees are at risk of leaving.
 
-🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 Languages & Libraries: Python, pandas, numpy, matplotlib, seaborn, scikit-learn
 
 Modeling: Logistic Regression, Decision Tree, Random Forest, XGB, etc.
@@ -19,7 +19,7 @@ Sampling : SMOTE
 
 Environment: Visual Studio Code
 
-🧪 Key Steps
+##🧪 Key Steps
 1. Data Cleaning
 Checked for null or duplicate values.
 
@@ -49,11 +49,11 @@ Employees with low satisfaction and fewer years in current role were more likely
 
 Overtime and lower income correlated strongly with attrition.
 
-📁 Files
+##📁 Files
 ibm_hr_attrition.ipynb – Main notebook with analysis and modeling.
 WA_Fn-UseC_-HR-Employee-Attrition.csv – The dataset from IBM.
 
-📌 Outcome
+##📌 Outcome
 Achieved 93.5% accuracy on the test set using XGBClassifier with GridSearchCV. These insights can guide HR departments in taking proactive steps to reduce attrition.
 
 🔗 References
