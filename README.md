@@ -23,12 +23,15 @@ This project explores factors contributing to employee attrition using the IBM H
 1. Data Cleaning
    
 Checked for null or duplicate values.
+
 Removed or imputed missing entries.
+
 Converted appropriate columns to categorical or numerical formats.
 
 2. Exploratory Data Analysis (EDA)
    
 Visualized attrition by age, gender, department, job role, income, etc.
+
 Used bar plots, histograms, and heatmaps to spot trends and correlations.
 
 3. Feature Engineering
@@ -39,12 +42,15 @@ Created new features such as years in current role, satisfaction ratios, etc.
 4. Modeling
    
 Split dataset into training and test sets.
+
 Trained and compared multiple classification models.
+
 Evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
 5. Key Insights
     
 Employees with low satisfaction and fewer years in current role were more likely to leave.
+
 Overtime and lower income correlated strongly with attrition.
 
 ## 📁 Files
