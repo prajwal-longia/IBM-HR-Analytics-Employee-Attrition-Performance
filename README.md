@@ -21,35 +21,40 @@ This project explores factors contributing to employee attrition using the IBM H
 
 ## 🧪 Key Steps
 1. Data Cleaning
-    Checked for null or duplicate values.
-    Removed or imputed missing entries.
-    Converted appropriate columns to categorical or numerical formats.
+   
+Checked for null or duplicate values.
+Removed or imputed missing entries.
+Converted appropriate columns to categorical or numerical formats.
 
 2. Exploratory Data Analysis (EDA)
-    Visualized attrition by age, gender, department, job role, income, etc.
-    Used bar plots, histograms, and heatmaps to spot trends and correlations.
+   
+Visualized attrition by age, gender, department, job role, income, etc.
+Used bar plots, histograms, and heatmaps to spot trends and correlations.
 
 3. Feature Engineering
-    Transformed categorical variables using one-hot encoding.
-    Created new features such as years in current role, satisfaction ratios, etc.
+   
+Transformed categorical variables using one-hot encoding.
+Created new features such as years in current role, satisfaction ratios, etc.
 
 4. Modeling
-    Split dataset into training and test sets.
-    Trained and compared multiple classification models.
-    Evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
+   
+Split dataset into training and test sets.
+Trained and compared multiple classification models.
+Evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
 5. Key Insights
-    Employees with low satisfaction and fewer years in current role were more likely to leave.
-    Overtime and lower income correlated strongly with attrition.
+    
+Employees with low satisfaction and fewer years in current role were more likely to leave.
+Overtime and lower income correlated strongly with attrition.
 
 ## 📁 Files
-  ibm_hr_attrition.ipynb – Main notebook with analysis and modeling.
-  WA_Fn-UseC_-HR-Employee-Attrition.csv – The dataset from IBM.
+ibm_hr_attrition.ipynb – Main notebook with analysis and modeling.
+WA_Fn-UseC_-HR-Employee-Attrition.csv – The dataset from IBM.
 
 ## 📌 Outcome
 Achieved 93.5% accuracy on the test set using XGBClassifier with GridSearchCV. These insights can guide HR departments in taking proactive steps to reduce attrition.
 
-🔗 References
+## 🔗 References
 [IBM HR Analytics Dataset on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 This project demonstrates the real-world application of data science to human resource challenges.
