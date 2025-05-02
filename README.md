@@ -37,6 +37,7 @@ Used bar plots, histograms, and heatmaps to spot trends and correlations.
 3. Feature Engineering
    
 Transformed categorical variables using one-hot encoding.
+
 Created new features such as years in current role, satisfaction ratios, etc.
 
 4. Modeling
