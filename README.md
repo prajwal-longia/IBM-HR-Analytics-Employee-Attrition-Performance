@@ -1,4 +1,4 @@
-## 🧠 IBM HR Analytics: Employee Attrition & Performance
+## 🧠 HR Analytics: Employee Attrition & Performance
 This project explores factors contributing to employee attrition using the IBM HR Analytics dataset. Through data cleaning, exploratory analysis, feature engineering, and machine learning, I aim to build predictive models and provide actionable HR insights.
 
 ## 📊 Objectives
